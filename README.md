@@ -49,7 +49,7 @@ The program was developed using the Dev-C++ IDE, providing a convenient environm
 
 ## Contributions
 
-Contributions to the Locky Terminal 32bit program are welcome! If you have any suggestions, bug reports, or feature requests, please feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/Special-Niewbie/Locky-Terminal-32bit/issues).
+Contributions to the Locky Terminal 32bit program are welcome! If you have any suggestions, bug reports, or feature requests, please feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/Special-Niewbie/Locky-Terminal-32-bit/issues).
 
 ## License
 
